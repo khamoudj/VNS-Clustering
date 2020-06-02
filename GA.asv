@@ -1,0 +1,7 @@
+function [ res ] = GA( x1,y1,x2,y2,m )
+%Calculer la force de gravitation
+%   Detailed explanation goes here
+res=sqrt(2);
+
+end
+

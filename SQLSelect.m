@@ -1,0 +1,14 @@
+SELECT 	MesureFEMTO.id
+,	MesureFEMTO.DataSet
+,	MesureFEMTO.FileName
+,	MesureFEMTO.AtTime
+,	MesureFEMTO.SamplingTime
+,	MesureFEMTO.VibHorMoy
+,	MesureFEMTO.VibVerMoy
+,	MesureFEMTO.VibMoy
+,	MesureFEMTO.VibHorVar
+,	MesureFEMTO.VibVerVar
+,	MesureFEMTO.VibVar
+,	MesureFEMTO.TemperatureMoy
+,	MesureFEMTO.TemperatureVar
+FROM 	Pronostia.dbo.MesureFEMTO
